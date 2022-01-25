@@ -1,0 +1,56 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1000px;
+    background-color: black;
+}
+
+.contenitore_gioco{
+    text-align: center;
+    width: 80%;
+}
+
+.titolo{
+    color: white;
+}
+
+.bottone_dadi{
+    margin: 20px;
+}
+
+#contenitore_vincitore{
+    text-align: center;
+    width: 40%;
+    background-color: white;
+}
+
+.hidden{
+    display: none;
+}
+
+#vincitore{
+    display: inline-block;
+}
+
+#dadi_giocatore{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;    
+    line-height: px;
+}
+
+#dadi_computer{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 10px;
+    display: inline-block;
+
+}
