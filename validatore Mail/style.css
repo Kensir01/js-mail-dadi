@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1000px;
+    background-color: black;
+}
+
+.contenitore_login{
+    text-align: center;
+    width: 80%;
+}
+
+.titolo{
+    color: white;
+}
+
+.contenitore_email{
+    padding: 10px;
+}
